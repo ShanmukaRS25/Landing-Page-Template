@@ -1,0 +1,39 @@
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.header {
+    background: url('../images/background.jpg') no-repeat center center/cover;
+    color: white;
+}
+
+.features h2, .testimonials h2, .cta h2, .leadform h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Form Styles */
+#contactForm .form-group {
+    margin-bottom: 1.5rem;
+}
+
+#contactForm .btn {
+    background-color: #007bff;
+    border: none;
+    color: white;
+}
+
+#contactForm .btn:hover {
+    background-color: #0056b3;
+}
